@@ -1,0 +1,10 @@
+.fixed-image {
+    height: 100px;
+    /* Reduced height */
+    width: auto;
+    /* Automatically adjust the width to maintain aspect ratio */
+    display: block;
+    
+    /* Center the image horizontally within the card */
+    object-fit: cover;
+}

@@ -1,0 +1,23 @@
+{
+    "CSPM": [
+      { "id": "1", "name": "Cloud Accounts", "text": "Accounting of Cloud Accounts", "image": "https://images.freeimages.com/images/large-previews/8ca/advanced-pie-3-1154009.jpg?fmt=webp&h=350" },
+      { "id": "2", "name": "Cloud Account Risk Assessment", "text": "Managing Risk for Cloud Account", "image": "https://media.istockphoto.com/id/611996210/photo/pie-chart-concept-3d-illustration.jpg?s=2048x2048&w=is&k=20&c=a8f0J-ASiMR540qTPxdg9VgPMsoZa55UDEzFUlVE5v8=" },
+      { "id": "3", "name": "Credits for Cloud Computing", "text": "Computational Activities of Computing", "image": "https://media.istockphoto.com/id/1158033412/photo/3d-man-sitting-with-laptop-on-colorful-business-graph.jpg?s=2048x2048&w=is&k=20&c=IZgHCRKpIxZf8Vsg2QBHW_eyNfLzMGM_W_J3B8b0oPs=" }
+    ],
+    "CWPP": [
+      { "id": "4", "name": "Top 5 Namespace Specific Alerts", "text": "Namespaces for Alerts", "image": "https://media.istockphoto.com/id/1059569206/photo/economical-chart-and-graph.jpg?s=2048x2048&w=is&k=20&c=3Gg1rJWw8VpjgC9E7aKAgltBS6peeauVUeYcYHbnjms=" },
+      { "id": "5", "name": "Workload Alerts", "text": "Work Assessment Handling", "image": "https://media.istockphoto.com/id/96905704/photo/busines-graph-chart-diagram.jpg?s=2048x2048&w=is&k=20&c=3W9TM7itIIZ1Yzw9kLpkeSe59meXhZ1ZnRdl8pu0gKU=" },
+      { "id": "6", "name": "Manpower Alerts", "text": "Employee status Alerts", "image": "https://media.istockphoto.com/id/118875926/photo/business-graph-up.jpg?s=2048x2048&w=is&k=20&c=OYGdVx8gpKWJSsKP-OTIiMVfQpPF8-p1VCPtE63FcIU=" }
+    ],
+    "Image": [
+      { "id": "7", "name": "Image Risk Assessment", "text": "Sizing Risk Assessment", "image": "https://media.istockphoto.com/id/1157569047/photo/red-arrow-moving-up-over-graph-paper-background.jpg?s=2048x2048&w=is&k=20&c=Fb_4nE9IKOnaBoWxIB-vo0HLRz_wSUCJmfrtxDtevfM=" },
+      { "id": "8", "name": "Image Security Issues", "text": "Solutions for Security Issues", "image": "https://www.istockphoto.com/photo/business-growth-chart-investment-stock-market-graph-success-gm1271891779-374333588" },
+      { "id": "9", "name": "Image Clarity Issues", "text": "Scaling of Image Clarity", "image": "https://www.istockphoto.com/photo/business-growth-chart-investment-stock-market-graph-success-gm1271891779-374333588" }
+    ],
+    "Ticket": [
+      { "id": "10", "name": "Ticket Assessment", "text": "Exploration for Risk Assessment", "image": "https://media.istockphoto.com/id/2162527925/photo/a-financial-forecasting-with-candle-stick-digital-screen-showcasing-predictive-charts-2025.jpg?s=2048x2048&w=is&k=20&c=XGp5Z3HSswna8dRhtMiHLjYUJvF81DGyPR-nzwQaKE4=" },
+      { "id": "11", "name": "Ticket Security Issues", "text": "Ticket Tracing Security Issues", "image": "https://media.istockphoto.com/id/1383550511/photo/creative-glowing-candlestick-forex-chart-on-dark-wallpaper-finance-growth-and-trade-concept.jpg?s=612x612&w=0&k=20&c=9en73xifqFBZKLUgJO7OMROwqkycqRcDJM_0eVvzbSQ=" },
+      { "id": "12", "name": "Ticket Count analysis", "text": "Rate Caluclation for Collective Analysis", "image": "https://media.istockphoto.com/id/1387641063/photo/stock-market-numbers-and-financial-data-displayed-on-trading-screen-of-online-investing.jpg?s=612x612&w=0&k=20&c=_iM5fnm42VPKNh2-9T8LQwYJgut_SnZ6mpUH-solQa0=" }
+    ]
+  }
+  
